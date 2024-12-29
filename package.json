@@ -1,0 +1,23 @@
+{
+  "name": "blockchain_assignment1",
+  "version": "1.0.0",
+  "description": "1. Azat Bolatbekov 2. Biba Koszhanova 3. Sultan Kissamedinov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AZ4T/Blockchain_Assignment1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AZ4T/Blockchain_Assignment1/issues"
+  },
+  "homepage": "https://github.com/AZ4T/Blockchain_Assignment1#readme",
+  "dependencies": {
+    "web3": "^4.16.0"
+  }
+}
